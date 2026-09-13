@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0F2E2A"/>
+  <rect x="60" y="60" width="72" height="72" rx="6" fill="none" stroke="#A8431F" stroke-width="3"/>
+  <text x="96" y="108" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="30" fill="#F3EFE6">SM</text>
+
+  <text x="60" y="330" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="64" fill="#F3EFE6">Salman Malik</text>
+  <text x="60" y="405" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="64" fill="#F3EFE6">Unisex Salon</text>
+
+  <rect x="60" y="440" width="90" height="4" fill="#A8431F"/>
+
+  <text x="60" y="490" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="#DCC9B8">Hair, make-up, extensions, tattoo &amp; piercing</text>
+  <text x="60" y="530" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="#DCC9B8">Andheri West, Mumbai</text>
+</svg>
